@@ -10,7 +10,7 @@ The motivation behind developing this small project came from the fact that my f
 - Python 3.6+
 
 ### Usage
-Run the script python dice.py, then enter a roll when prompted:
+Run the script python dice.py, then enter a roll when prompted
 
 ### License
 

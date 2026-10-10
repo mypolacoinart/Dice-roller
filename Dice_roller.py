@@ -1,6 +1,6 @@
 import random
 
-print("\n\033[1m\033[93m Dice Roller Alpha\033[0m")
+print("\n\033[1m\033[93mDice Roller Alpha\033[0m")
 print("\033[3mThe rolling of the dice is the unfolding of fate.\033[0m\n")
 
 while True:
